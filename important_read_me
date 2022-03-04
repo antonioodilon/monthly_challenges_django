@@ -1,0 +1,21 @@
+Important!
+
+1) Make sure you have Python and Django installed in your machine.
+
+2) On VSCode, or another IDE of your choice, set the directory in the integrated terminal to the project's directory. For example, since I am using Ubuntu, in my case this would be:
+$ cd /home/antoniobrito/Antonio/1_Programming/from_HD/django_project_monthly_challenges
+
+3) Next, run one of the following commands:
+$ python3 manage.py runserver
+$ python manage.py runserver
+
+4) A message similar to this one will appear:
+System check identified no issues (0 silenced).
+March 04, 2022 - 16:07:53
+Django version 2.2.24, using settings 'django_project_monthly_challenges.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+
+5) Click the http://127.0.0.1:8000/ link
+
+6) Finally, on your browser's enter http://127.0.0.1:8000/challenge/ to access the project
